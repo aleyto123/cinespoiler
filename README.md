@@ -14,3 +14,6 @@
 
 ## administrador de entidades
 !['administrador de entidades'](./docs/o5-admin.png)
+
+## Administrador de movies 
+!['administrador de movies'](./docs/o6-movies.png)
