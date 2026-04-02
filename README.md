@@ -2,3 +2,9 @@
 
 ## creacion del respositorio 
 !['creacion del respositorio'](./docs/o1-repository.png)
+
+## preparacion del ambiente de desarrollo
+!['preparacion de ambiente de desarrollo'](./docs/o2-environment.png)
+
+## ejecucion de la aplicación
+!['ejecucion de la aplicación'](./docs/o3-run.png)
