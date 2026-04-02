@@ -17,3 +17,6 @@
 
 ## Administrador de movies 
 !['administrador de movies'](./docs/o6-movies.png)
+
+## Front de movies
+!['Front de movies'](./docs/o7-front.png)
